@@ -1,0 +1,39 @@
+/* === Base styles === */
+
+html {
+    font-family: Verdana, sans-serif;
+    color: #ffffff;
+    background-color: black;
+    text-align: center;
+}
+
+/* === Header styles === */
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+/* === Main styles === */
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+/* === Footer styles === */
+
+footer p {
+    text-align: right;
+    color: gray;
+}
